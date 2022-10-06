@@ -1,0 +1,17 @@
+{
+  "name": "class-oops",
+  "version": "1.0.0",
+  "description": "\"Project for applying classes instead of functions\"",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kunal Purbia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
